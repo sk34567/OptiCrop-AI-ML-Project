@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OptiCrop - Home</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body class="home-bg">
+
+    <div class="overlay">
+
+        <!-- Navigation Bar -->
+        <div class="topnav">
+            <a class="active" href="/">Home</a>
+            <a href="/about">About</a>
+            <a href="/findyourcrop">Find Your Crop</a>
+        </div>
+
+        <!-- Home Content -->
+        <div class="content">
+
+            <h1>🌱 OptiCrop</h1>
+
+            <h2>Smart Agricultural Production Optimization Engine</h2>
+
+            <p>
+                Welcome to <strong>OptiCrop</strong>, an Artificial Intelligence
+                and Machine Learning based Crop Recommendation System designed
+                to support modern agriculture.
+
+                <br><br>
+
+                The application analyzes important soil nutrients and
+                environmental conditions including
+                <strong>Nitrogen (N)</strong>,
+                <strong>Phosphorous (P)</strong>,
+                <strong>Potassium (K)</strong>,
+                <strong>Temperature</strong>,
+                <strong>Humidity</strong>,
+                <strong>Soil pH</strong> and
+                <strong>Rainfall</strong>.
+
+                <br><br>
+
+                Based on these parameters, the trained Machine Learning model
+                predicts the most suitable crop for cultivation, helping
+                farmers improve crop productivity, optimize fertilizer and
+                water usage, reduce farming risks, and promote sustainable
+                agricultural practices.
+
+                <br><br>
+
+                OptiCrop is developed using
+                <strong>Python, Flask, Machine Learning, NumPy, Pandas,
+                Scikit-learn, HTML and CSS</strong> to provide intelligent,
+                fast, and reliable crop recommendations.
+
+            </p>
+
+            <br>
+
+            <a href="/findyourcrop">
+                <button>🌾 Find Your Crop</button>
+            </a>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
