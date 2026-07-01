@@ -8,6 +8,16 @@ The project is developed using Python, Flask, Scikit-learn, HTML, and CSS to pro
 
 ---
 
+## 🌐 Live Demo
+
+🚀 **Live Website:**  
+https://opticrop-ai-ml-project.onrender.com
+
+💻 **GitHub Repository:**  
+https://github.com/sk34567/OptiCrop-AI-ML-Project
+
+---
+
 ## 🚀 Features
 
 - Machine Learning-based crop prediction
@@ -29,12 +39,14 @@ The project is developed using Python, Flask, Scikit-learn, HTML, and CSS to pro
 - HTML5
 - CSS3
 - Machine Learning
+- Gunicorn
+- Render (Deployment)
 
 ---
 
 ## 📂 Project Structure
 
-```
+```text
 OptiCrop-AI-ML-Project
 │
 ├── Source Code
@@ -47,12 +59,13 @@ OptiCrop-AI-ML-Project
 │   ├── templates
 │   └── static
 │
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 ---
 
-## ⚙️ How to Run the Project
+## ⚙️ How to Run the Project Locally
 
 ### 1. Clone the repository
 
@@ -60,7 +73,7 @@ OptiCrop-AI-ML-Project
 git clone https://github.com/sk34567/OptiCrop-AI-ML-Project.git
 ```
 
-### 2. Open the project folder
+### 2. Navigate to the project directory
 
 ```bash
 cd OptiCrop-AI-ML-Project
@@ -84,10 +97,18 @@ pip install -r requirements.txt
 python app.py
 ```
 
-### 6. Open your browser and visit
+### 6. Open your browser
 
-```
+For local execution:
+
+```text
 http://127.0.0.1:5000
+```
+
+Or use the deployed application:
+
+```text
+https://opticrop-ai-ml-project.onrender.com
 ```
 
 ---
@@ -112,16 +133,16 @@ http://127.0.0.1:5000
 
 ### Output
 
-Recommended Crop
+- Recommended Crop
 
 ---
 
 ## 📸 Application Pages
 
-- Home Page
-- About Page
-- Crop Recommendation Form
-- Prediction Result Page
+- 🏠 Home Page
+- ℹ️ About Page
+- 🌱 Crop Recommendation Form
+- ✅ Prediction Result Page
 
 ---
 
@@ -131,8 +152,9 @@ Recommended Crop
 - Fertilizer Recommendation System
 - Soil Health Analysis
 - Multi-language Support
-- Mobile-Friendly Interface
-- Cloud Deployment
+- Mobile Application
+- User Authentication
+- Cloud Database Integration
 
 ---
 
