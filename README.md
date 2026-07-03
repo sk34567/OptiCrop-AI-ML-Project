@@ -137,12 +137,27 @@ https://opticrop-ai-ml-project.onrender.com
 
 ---
 
-## 📸 Application Pages
+## 📸 Screenshots
 
-- 🏠 Home Page
-- ℹ️ About Page
-- 🌱 Crop Recommendation Form
-- ✅ Prediction Result Page
+### 🏠 Home Page
+
+![Home Page](Screenshots/01_Home_Page.png)
+
+### ℹ️ About Page
+
+![About Page](Screenshots/02_About_Page.png)
+
+### 🌱 Find Your Crop Page
+
+![Find Your Crop](Screenshots/03_Find_Your_Crop_Page.png)
+
+### ✅ Prediction Result
+
+![Prediction Result](Screenshots/04_Crop_Prediction_Result.png)
+
+### 🌐 Live Demo
+
+![Live Demo](Screenshots/05_Live_Demo.png)
 
 ---
 
