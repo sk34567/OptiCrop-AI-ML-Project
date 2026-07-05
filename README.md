@@ -189,6 +189,7 @@ The complete project documentation is available in the **Documentation** folder.
 
 ---
 
-## 📄 License
+## 👥 Team
 
-This project is developed for educational and academic purposes.
+* Shaik Yasin
+* Yamparala Sravani
