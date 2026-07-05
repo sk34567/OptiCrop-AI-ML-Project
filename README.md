@@ -13,6 +13,17 @@ The project is developed using Python, Flask, Scikit-learn, HTML, and CSS to pro
 🚀 **Live Website:**  
 https://opticrop-ai-ml-project.onrender.com
 
+---
+
+## 🎥 Project Demonstration
+
+A complete demonstration of the OptiCrop project, including the project overview and application workflow, is available at the link below.
+
+📹 **Demo Video:**  
+https://drive.google.com/file/d/1mKiV1LAl5O9kX9mPuoIGz9JKwN9Qjc9O/view?usp=sharing
+
+---
+
 💻 **GitHub Repository:**  
 https://github.com/sk34567/OptiCrop-AI-ML-Project
 
