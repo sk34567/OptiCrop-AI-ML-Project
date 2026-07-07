@@ -200,7 +200,4 @@ The complete project documentation is available in the **Documentation** folder.
 
 ---
 
-## 👥 Team
 
-* Shaik Yasin
-* Yamparala Sravani
