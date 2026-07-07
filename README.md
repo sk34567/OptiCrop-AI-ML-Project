@@ -188,6 +188,18 @@ The complete project documentation is available in the **Documentation** folder.
 
 ---
 
+## 👥 Team Members
+
+| S.No | Name | Role |
+|------|-------------------------------|-----------------------------------------------------------|
+| 1 | Aki Harsha Vardhini | Machine Learning Developer & Flask Application Developer (Team Lead) |
+| 2 | Yamparala Sravani | Machine Learning Developer & Flask Application Developer (Team Member) |
+| 3 | Venkata Pavana Lakshmi Javvaji | Machine Learning Developer & Flask Application Developer (Team Member) |
+| 4 | Shaik Yasin | Machine Learning Developer & Flask Application Developer (Team Member) |
+| 5 | Kosuru Lokesh | Machine Learning Developer & Flask Application Developer (Team Member) |
+
+---
+
 ## 🔮 Future Enhancements
 
 - Weather API Integration
