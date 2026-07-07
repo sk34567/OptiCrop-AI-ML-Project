@@ -13,6 +13,17 @@ The project is developed using Python, Flask, Scikit-learn, HTML, and CSS to pro
 🚀 **Live Website:**  
 https://opticrop-ai-ml-project.onrender.com
 
+---
+
+## 🎥 Project Demonstration
+
+A complete demonstration of the OptiCrop project, including the project overview and application workflow, is available at the link below.
+
+📹 **Demo Video:**  
+https://drive.google.com/file/d/1mKiV1LAl5O9kX9mPuoIGz9JKwN9Qjc9O/view?usp=sharing
+
+---
+
 💻 **GitHub Repository:**  
 https://github.com/sk34567/OptiCrop-AI-ML-Project
 
@@ -48,6 +59,16 @@ https://github.com/sk34567/OptiCrop-AI-ML-Project
 
 ```text
 OptiCrop-AI-ML-Project
+│
+├── Documentation
+│   └── OptiCrop_Project_Documentation.pdf
+│
+├── Screenshots
+│   ├── 01_Home_Page.png
+│   ├── 02_About_Page.png
+│   ├── 03_Find_Your_Crop_Page.png
+│   ├── 04_Crop_Prediction_Result.png
+│   └── 05_Live_Demo.png
 │
 ├── Source Code
 │   ├── app.py
@@ -128,7 +149,7 @@ https://opticrop-ai-ml-project.onrender.com
 - Potassium (K)
 - Temperature
 - Humidity
-- pH
+- Soil pH
 - Rainfall
 
 ### Output
@@ -161,6 +182,12 @@ https://opticrop-ai-ml-project.onrender.com
 
 ---
 
+## 📄 Project Documentation
+
+The complete project documentation is available in the **Documentation** folder.
+
+---
+
 ## 🔮 Future Enhancements
 
 - Weather API Integration
@@ -172,4 +199,5 @@ https://opticrop-ai-ml-project.onrender.com
 - Cloud Database Integration
 
 ---
+
 
